@@ -1,4 +1,4 @@
-# 🛠️ Installing OpenLane on Ubuntu 24.04 LTS
+# 🛠️ Installing OpenLane 1 on Ubuntu 24.04 LTS
 
 This guide provides step-by-step instructions to install the OpenLane 1 on Ubuntu 24.04 LTS, along with all required dependencies such as Docker, Magic, and the Sky130 PDK.
 
@@ -132,6 +132,6 @@ This command will execute the full RTL-to-GDSII flow for the `spm` design.
 - [OpenLane Documentation](https://openlane.readthedocs.io/en/latest/getting_started/installation/installation_ubuntu.html)
 - [OpenLane GitHub Repository](https://github.com/The-OpenROAD-Project/OpenLane)
 - [Sky130 PDK Documentation](https://github.com/google/skywater-pdk)
-- [OpenLane Installation Video Tutorial](https://www.youtube.com/watch?v=I57zcYhM1LA)
+- [OpenLane Installation Video Tutorial](https://youtu.be/6vpFpxqW5jw)
 
 ---
