@@ -69,4 +69,4 @@ If the output is `command not found`, AnyDesk has been successfully uninstalled.
 ```
 
 Resources:
-[Youtube video link]()
+[Youtube video link](https://youtu.be/6pwjPOXeuyo)
