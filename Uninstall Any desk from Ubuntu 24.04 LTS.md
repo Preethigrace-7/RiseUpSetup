@@ -1,9 +1,7 @@
-Sure! Here's a **step-by-step guide in GitHub-flavored Markdown** format to uninstall AnyDesk from Ubuntu — ready to save in a `.md` file:
 
-```markdown
 # Uninstall AnyDesk from Ubuntu
 
-This guide provides step-by-step instructions to completely uninstall AnyDesk from an Ubuntu system.
+This guide provides step-by-step instructions to uninstall AnyDesk from an Ubuntu system completely.
 
 ---
 
@@ -71,4 +69,4 @@ If the output is `command not found`, AnyDesk has been successfully uninstalled.
 ```
 
 Resources:
-Youtube video link!()
+[Youtube video link]()
